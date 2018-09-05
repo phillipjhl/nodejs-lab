@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_lab",
+  "version": "1.0.0",
+  "description": "NodeJS lab practicing NodeJS",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Langland",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
